@@ -1,0 +1,8 @@
+{
+	"label": "Client-Side Scripting",
+	"position": 2,
+	"link": {
+		"type": "generated-index",
+		"description": "Core programming concepts and browser-based scripting techniques."
+	}
+}

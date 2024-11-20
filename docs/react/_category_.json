@@ -1,0 +1,8 @@
+{
+	"label": "React Ecosystem",
+	"position": 10,
+	"link": {
+		"type": "generated-index",
+		"description": "Collection of tools, libraries, and frameworks built around the React library."
+	}
+}

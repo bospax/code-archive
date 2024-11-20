@@ -1,0 +1,8 @@
+{
+	"label": "Type Safety",
+	"position": 2,
+	"link": {
+		"type": "generated-index",
+		"description": "Typed for improved code reliability, debugging and tooling."
+	}
+}
