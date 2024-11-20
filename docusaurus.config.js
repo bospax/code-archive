@@ -6,7 +6,7 @@ const config = {
 	tagline: 'Dinosaurs are cool',
 	favicon: 'img/book.png',
 
-	url: '',
+	url: 'https://codebible.netlify.app/',
 
 	baseUrl: '/',
 
