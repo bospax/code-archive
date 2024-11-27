@@ -1,0 +1,8 @@
+{
+	"label": "Laravel Ecosystem",
+	"position": 9,
+	"link": {
+		"type": "generated-index",
+		"description": "Collection of tools, services, and libraries built around the Laravel framework."
+	}
+}
